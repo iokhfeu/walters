@@ -7,10 +7,10 @@ body {
 p {
   text-decoration-color: white;
   text-decoration-line: overline underline;
-  font-size: 60px;
+  font-size: 30px;
 }
 h2 {
   text-decoration-color: turquoise;
   text-decoration-line: overline underline;
-  font-size: 90px;
+  font-size: 60px;
 }
