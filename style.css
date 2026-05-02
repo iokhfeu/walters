@@ -7,10 +7,10 @@ body {
 p {
   text-decoration-color: white;;
   font-size: 20px;
-  text-shadow: 2px white;
+  text-shadow: 2px 2px white;
 }
 h2 {
   text-decoration-color: turquoise;
   font-size: 40px;
-  text-shadow: 2px white;
+  text-shadow: 2px 2px white;
 }
